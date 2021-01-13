@@ -4,4 +4,4 @@ function sendMsg(){
     console.log("Wouldn't you like to be a pepper too???")
 }
 
-sendMsg();
+//sendMsg();
